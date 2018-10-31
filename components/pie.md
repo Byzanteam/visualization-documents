@@ -13,6 +13,7 @@
 - **order** *(Default: `'DESC'`)*: `Enum('ORIGINAL', 'ASC', 'DESC')` 扇形排序。
 - **padding** *(Default: `8`)*: `number | Array<number>` 绘图区域和画布的距离。
 - **percentage** *(Default: `true`)*: `boolean` 是否以百分比显示数据。
+- **text** *(Default: `''`)*: `string` 饼图中间提示文字。
 - **width** *(Default: `'400'`)*: `number | string` 画布宽度。
 
 ## Events
