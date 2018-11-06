@@ -5,7 +5,6 @@
 - **data** *(required)*: `Array<object>` 图表数据，对象数组。
 - **sort** *(required)*: `string` 分类字段名称。
 - **value** *(required)*: `string` 数值字段名称。
-- **adjust** *(Default: `false`)*: `boolean` 是否对原始数据进行调整。
 - **innerRadius** *(Default: `0`)*: `number` 内半径和外半径的比值。
 - **offset** *(Default: `[12, 12]`)*: `[number, number]`
   - **offset[0]**: 起始点与圆弧的距离
