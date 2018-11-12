@@ -10,7 +10,7 @@
 | isHover | `boolean` | 设置图标是否hover   |  `false`  | false|
 | title | `string` | 设置是否有title   |  `''`  | false|
 | backgroundColor | `string` | 设置背景色  |    | false|
-| borderStyle | `string` | 设置边框的风格,如果不设置,宽度和颜色都不会出现,可以用缩写的形式传入。   | `solid`  | false|
-| borderWidth | `string` | 设置边框宽  |  `1px`  | false|
+| borderStyle | `string` | 设置边框的风格,如果不设置,宽度和颜色都不会出现,可以用缩写的形式传入。   | `solid`  | false|
+| borderWidth | `string` | 设置边框宽  |  `1px`  | false|
 | borderRadius | `string` | 边框的半径（弧度）   | `50%`   | false|
 | borderColor | `string` | 边框的颜色  | `#ffffff`   | false|
