@@ -18,7 +18,6 @@
 | size         | `Enum('default', 'large')`                         | 输入框尺寸。                                                 | `'default'` |
 | spellcheck   | `boolean`                                          | 原生拼写检查功能。                                           | `false`     |
 | type         | `Enum('date', 'email', 'password', 'text', 'url')` | 输入框类型。                                                 | `'text'`    |
-| width        | `string`                                           | 输入框宽度。                                                 | `'100%'`    |
 
 ## Events
 
