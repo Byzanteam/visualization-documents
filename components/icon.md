@@ -7,7 +7,7 @@
 | background | `string` | 背景颜色 | *N/A* |
 | borderColor | `string` | 边框颜色 | *N/A* |
 | borderWidth | `string` | 边框宽度 | `'0'` |
-| color | `string` | 图标颜色 | `''` |
+| color | `string` | 图标颜色 | *N/A* |
 | hover | `boolean` | 图标 hover 效果 | `false` |
 | padding | `number | string` | 图标内边距 | `0` |
 | radius | `string` | 图标圆角 | `'0'` |
