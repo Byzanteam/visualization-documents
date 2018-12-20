@@ -12,6 +12,7 @@
 | hover | `boolean` | 图标 hover 效果 | `false` |
 | padding | `number | string` | 图标内边距 | `0` |
 | radius | `string` | 图标圆角 | `'0'` |
+| rotate | `number | string` | 旋转角度 | `'0'` |
 | size | `number | string` | 图标大小 | `16` |
 | style | `object` | 样式 | *N/A* |
 | title | `string` | 鼠标悬停的标题 | *N/A* |
